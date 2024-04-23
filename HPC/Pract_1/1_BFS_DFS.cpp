@@ -1,3 +1,16 @@
+/*
+
+Run the program as (gcc or g++):
+>> g++ filename.cpp -o filename.exe -fopenmp
+>> ./filename.exe
+
+OR
+
+g++ -fopenmp -o program program.cpp
+./program
+
+*/
+
 #include <iostream>
 #include <vector>
 #include <queue>
